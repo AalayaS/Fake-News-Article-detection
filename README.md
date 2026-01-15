@@ -46,10 +46,4 @@ The model demonstrates effective performance in distinguishing fake news from re
 
 ---
 
-##  How to Run the Project
 
-```bash
-git clone https://github.com/your-username/fake-news-detection.git
-cd fake-news-detection
-pip install -r requirements.txt
-python main.py
