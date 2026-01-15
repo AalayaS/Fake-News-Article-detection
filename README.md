@@ -1,4 +1,4 @@
-# Fake News Article Detection using Machine Learning
+# Fake News Article Detection 
 
 ##  Project Overview
 This project focuses on detecting fake news articles using **Natural Language Processing (NLP)** and **Machine Learning** techniques.  
@@ -26,15 +26,14 @@ The project follows these steps:
 3. **Feature Extraction**
    - TF-IDF Vectorization  
 4. **Model Training**
-   - Logistic Regression / Naive Bayes / SVM  
+   - Logistic Regression  
 5. **Evaluation**
    - Accuracy, Precision, Recall, F1-score  
 
 ---
 
 ##  Technologies Used
-- Python  
-- NLTK / spaCy  
+- Python   
 - Scikit-learn  
 - Pandas & NumPy  
 - Matplotlib / Seaborn  
